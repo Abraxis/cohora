@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.cohora
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, flyway, gradle, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, netty-server, openapi, postgres, properties, readme, security-annotations, security-jwt, security-oauth2, shade, testcontainers]
